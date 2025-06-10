@@ -1,2 +1,3 @@
 Hi Project Odin, I'm Abdullah
 I intent to learn both JavaScript and Ruby for back-end 
+thats better
